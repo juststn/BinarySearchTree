@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TreeNode.h"
+#include "node.h"
 #include <string>
 
 using namespace std;
